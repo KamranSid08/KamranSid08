@@ -14,7 +14,6 @@
 
 - 💬 Ask me about **Java,HTML,CSS,Python**
 
-- ⚡ Fun fact **I am not funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
